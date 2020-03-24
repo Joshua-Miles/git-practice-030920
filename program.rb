@@ -1,6 +1,6 @@
 str = ""  # Josh
 str = str # Faizah
-str = str # Tim
+str = str + "I need more cowbell!"
 str = str # Angelo
 str = str # Johnathan
 str = str # Bryant
