@@ -9,7 +9,7 @@ str = str # Rafa
 str = str # Melike
 str = str # Ruth
 str = str # Isaac
-str = str # Will
+str = str.upcase
 str = str # Aidan
 str = str # Steven
 puts str
