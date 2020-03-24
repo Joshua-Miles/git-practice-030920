@@ -1,5 +1,5 @@
 str = ""  # Josh
-str = str # Faizah
+str = str.reverse # Faizah
 str = str # Tim
 str = str # Angelo
 str = str # Johnathan
