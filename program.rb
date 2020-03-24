@@ -1,4 +1,4 @@
-str = ""  # Josh
+str = "Brady Bunch"  # Josh
 str = str.reverse # Faizah
 str = str + "I need more cowbell!"
 str = str + " - MESSAGE FOR WILL: Yo Will, let me borrow that Supreme hat one time." # Angelo
