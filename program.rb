@@ -10,6 +10,6 @@ str = str # Melike
 str = str # Ruth
 str = str # Isaac
 str = str # Will
-str = str # Aidan
+str = str + str.reverse # Aidan
 str = str # Steven
 puts str
