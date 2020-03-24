@@ -9,7 +9,7 @@ str = str # Rafa
 str = "metanoia" # Melike
 str = str # Ruth
 str = str + "hi"
-str = str # Will
+str = str.upcase
 str = str + str.reverse # Aidan
 str = str # Steven
 puts str
