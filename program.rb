@@ -1,6 +1,6 @@
 str = ""  # Josh
 str = str.reverse # Faizah
-str = str # Tim
+str = str + "I need more cowbell!"
 str = str + " - MESSAGE FOR WILL: Yo Will, let me borrow that Supreme hat one time." # Angelo
 str = str # Johnathan
 str = "Hello World!" # Bryant
