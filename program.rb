@@ -1,5 +1,5 @@
 str = ""  # Josh
-str = str # Faizah
+str = str.reverse # Faizah
 str = str # Tim
 str = str + " - MESSAGE FOR WILL: Yo Will, let me borrow that Supreme hat one time." # Angelo
 str = str # Johnathan
